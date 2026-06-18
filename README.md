@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
     <img src="https://img.shields.io/badge/python-3.10%2B-blueviolet.svg" alt="Python">
+    <img src="https://img.shields.io/badge/version-beta-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/ci-check-green.svg" alt="License">
+    <img src="https://img.shields.io/badge/idrk-blueviolet.svg" alt="Python">
   </div>
 </div>
 
